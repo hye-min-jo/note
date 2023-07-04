@@ -6,5 +6,4 @@ class Calculation {
         int result1=num1+num2;
         System.out.println(result1);
     }
-    
 }
