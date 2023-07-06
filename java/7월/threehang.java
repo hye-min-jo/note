@@ -1,4 +1,4 @@
-class threehang {
+class threeHang {
     public static void main(String args[]){
         int a= 12;
         int value =(a>5)? 20:30;

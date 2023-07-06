@@ -1,4 +1,4 @@
-class switchmon {
+class switchMon {
     public static void main(String[] args){
         int num=1;
         switch(num){
