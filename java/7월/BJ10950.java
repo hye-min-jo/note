@@ -15,7 +15,7 @@ public class BJ10950 {
 		}
 		in.close();
  
-		for (int k : arr) {5
+		for (int k : arr) {
 			System.out.println(k);
 		}
 	}
