@@ -1,7 +1,7 @@
 import java.util.Scanner;
 ///성적을 입력받아 A,B,C,D 등급 매기기
 
-public class bajjj {
+public class BJ9498 {
     public static void main(String arg[]){
         Scanner in= new Scanner(System.in);
         int A = in.nextInt();
