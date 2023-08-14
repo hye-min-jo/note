@@ -7,6 +7,7 @@ public class BJ25304 {
 
         int total =  in.nextInt();
         int count = in.nextInt();
+        in.close();
 
         for(int i = 0; i< count; i++){
             int price = in.nextInt();
